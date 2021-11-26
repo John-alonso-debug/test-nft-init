@@ -1,0 +1,36 @@
+{
+    "description": "Alian Ducky",
+    "external_url": "https://www.mobox.io/#/iframe/momo",
+    "image": "https://raw.githubusercontent.com/John-alonso-debug/test-nft-init/main/1.png",
+    "name": "Fat Boy 1",
+    "attributes": [
+        {
+            "trait_type": "spookiness",
+            "value": 411
+        },
+        {
+            "trait_type": "Background",
+            "value": "pastel yellow"
+        },
+        {
+            "trait_type": "Sheet",
+            "value": "tan"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "VIP"
+        },
+        {
+            "trait_type": "Head",
+            "value": "hersheet kiss"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "smile"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "pupils"
+        }
+    ]
+}
