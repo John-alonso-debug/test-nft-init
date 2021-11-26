@@ -1,12 +1,12 @@
 {
     "description": "Alian Ducky",
     "external_url": "https://www.mobox.io/#/iframe/momo",
-    "image": "https://raw.githubusercontent.com/John-alonso-debug/test-nft-init/main/1.png",
-    "name": "Fat Boy 1",
+    "image": "https://raw.githubusercontent.com/John-alonso-debug/test-nft-init/main/0.png",
+    "name": "Fat Boy 0",
     "attributes": [
         {
             "trait_type": "spookiness",
-            "value": 411
+            "value": 311
         },
         {
             "trait_type": "Background",
